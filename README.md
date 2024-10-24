@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stanislas MEZUREUX</h1>
 <h3 align="center">A passionate CS engineering student from France.</h3>
 
-- 🌱 I’m currently learning **Go, Sveltekit**
+- 🌱 I’m currently learning **Go**
 
-- 📫 How to reach me **stanmzx@gmail.com**
+- 📫 How to reach me **stanislas.mezureux@telecomnancy.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
